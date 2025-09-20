@@ -3,7 +3,9 @@
 HourlyEmployee::HourlyEmployee(const std::string& name, int id, 
                                 double payPerHour, double workedHours)
 {
-    // TODO: 
+    // TODO:     
+    payPerHour = payPerHour;
+    workedHours = workedHours;
 }
 /*TODO: calculate Payment */
 
